@@ -30,4 +30,5 @@ print(f'Study Areas: {study_area}')
 print('-' * 80)
 print(f'{introduction_message}')
 print('-' * 80)
+
 print('=' * 80)
