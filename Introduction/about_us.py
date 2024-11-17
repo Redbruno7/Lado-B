@@ -32,4 +32,3 @@ print(f'{introduction_message}')
 print('-' * 80)
 
 print('=' * 80)
-teste
