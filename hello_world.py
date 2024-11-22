@@ -1,4 +1,6 @@
 # First Program With Momozi s2s2
+# Date of showing prof the project : 25/11
+# We have to think about our projecttttttt
 # Date: 11/11/2024
 
 import os
