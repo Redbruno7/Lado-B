@@ -1,8 +1,7 @@
-# About us using variant - Training
-# Data: 11/11/2024
+# About us
+# Date: 11/11/2024
 
 import os
-import random
 
 
 os.system('cls')
@@ -16,8 +15,6 @@ print('=' * 80)
 name = 'Bruno C. Rodgers'
 birth = 1999
 study_area = 'Python'
-introduction_message = (f'Hello! Welcome to our portfolio! '
-f'It will be a plesure to show our evolution!')
 
 # Exit
 print()
@@ -26,9 +23,10 @@ print('MEMBERS')
 print('=' * 80)
 print(f'Name: {name}')
 print(f'Birth: {birth}')
-print(f'Study Areas: {study_area}')
+print(f'Study Area: {study_area}')
 print('-' * 80)
-print(f'{introduction_message}')
+print('Hello! This is our e-Commerce development project')
+print('It will be a plesure to show our evolution!')
 print('-' * 80)
 
 print('=' * 80)
