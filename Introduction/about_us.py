@@ -16,8 +16,12 @@ name = 'Bruno C. Rodgers'
 birth = 1999
 study_area = 'Python'
 
+name1 = 'Laura R. Fontana'
+birth1 = 2001
+
 # Exit
 print()
+print('amor eu ti amo muito e eu sei q vc vai apagar isso mas ja q vc ta lendo me da seu cu?')
 print('=' * 80)
 print('MEMBERS')
 print('=' * 80)
@@ -25,8 +29,10 @@ print(f'Name: {name}')
 print(f'Birth: {birth}')
 print(f'Study Area: {study_area}')
 print('-' * 80)
+print(f'Name: {name1}')
+print(f'Birth: {birth1}')
+print(f'Study Area: {study_area}')
+print('-'*80)
 print('Hello! This is our e-Commerce development project')
 print('It will be a plesure to show our evolution!')
-print('-' * 80)
-
 print('=' * 80)
