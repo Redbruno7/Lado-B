@@ -21,7 +21,7 @@ birth1 = 2001
 
 # Exit
 print()
-print('amor eu ti amo muito e eu sei q vc vai apagar isso mas ja q vc ta lendo me da seu cu?')
+print('amor eu tui amo s2s2s2s2')
 print('=' * 80)
 print('MEMBERS')
 print('=' * 80)
